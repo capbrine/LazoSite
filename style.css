@@ -1,0 +1,27 @@
+body {
+    background-color: grey;
+    height: 100vh;
+}
+h1 {
+    color: rgb(0, 255, 200);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900%;
+    font-style: oblique;
+}
+div {
+    background-color: rgb(139, 19, 109);
+    text-align: center;
+}
+button{
+   font-family: 'Courier New', Courier, monospace;
+   border-radius: 35px;
+   background-color: black;
+   color: cyan;
+}
+h3 {
+    color: rgb(200, 255, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+article{
+    text-align: center;
+}
